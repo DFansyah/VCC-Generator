@@ -1,0 +1,3 @@
+node_modules
+/^([a-zA-Z0-9 _-]+)$/.bak
+yarn.lock
