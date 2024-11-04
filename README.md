@@ -2,6 +2,7 @@
 <div>
 # Installation
 ## For Termux User
+
 ```
 pkg update
 pkg upgrade
