@@ -16,7 +16,7 @@ A simple Node.js application for generating random credit card information, incl
 
 To set up the project locally, follow these steps:
 
-1. **Install needed packages termux***
+1. ***Install needed packages termux***
 
     ```bash
     pkg update
